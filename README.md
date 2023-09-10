@@ -18,3 +18,16 @@ Redirect
 - HttpServletResponse객체의 sendRedirect( ) 이용
 
 ![page9image36344704](https://github.com/park-soo/mvc_practice2/assets/127409329/2a338af6-90ae-4502-b593-201884d75784)
+
+
+스프링 웹 MVC 프레임워크
+![page12image64276304](https://github.com/park-soo/mvc_practice2/assets/127409329/e788a945-fad9-4ffa-b36a-de74cea81624)
+
+
+
+
+애노테이션 기반 MVC 프레임워크
+- DispatcherServlet
+- AnnotationHandlerMapping
+- HandlerAdapter
+- ViewResolver
